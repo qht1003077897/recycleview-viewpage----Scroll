@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="50dp"
+       android:background="@drawable/bcxml"
+    >
+    <TextView
+        android:id="@+id/item_recyclerview"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+     />
+
+</FrameLayout>
